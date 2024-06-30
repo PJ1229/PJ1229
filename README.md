@@ -1,5 +1,5 @@
 ## Hey! My name is PJ. Here's some stuff about me! 👋
-- 🔭 I'm currently working on developing my own website
+- 🔭 I'm currently developing my own website
 - 🌱 I'm currently learning Data Structures & Algorithms and Ordinary Differential Equations
 - 🏫 I'm currently a freshman at Wayne State University majoring in Mechanical Engineering with a minor in Computer Science.
 - 🔨 I love tinkering whether that be with 3D printers, electronics, or programming!
