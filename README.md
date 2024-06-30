@@ -5,4 +5,3 @@
 - 🔨 I love tinkering whether that be with 3D printers, electronics, or programming!
 - 🎥 I like to work on short films on the side. I'm hoping to publish some to my Youtube Channel in the future.
 - 🤔 I'm looking for help with anything AI related. I find it fascinating but confusing.
-- 😄 Pronouns: (He/Him)
