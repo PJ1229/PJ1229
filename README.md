@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey! 👋
+My name is PJ Kim. I am currently a freshman at Wayne State University majoring in Mechanical Engineering with a minor in Computer Science. I love creating projects, learning new subjects, and meeting new people!
 
 <!--
 **PJ1229/PJ1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
