@@ -9,10 +9,10 @@
 
 <p>
 <br/>
-<a target="_blank" href="www.linkedin.com/in/peter-kim-34719126b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<a target="_blank" href="https://www.youtube.com/channel/UC2hlN8nkIE6jQl7qLvJFRNA"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" height=25></a> 
-<a target="_blank" href=""><img src="https://img.shields.io/badge/My%20Website-%23E4405F.svg?&style=for-the-badge&logo=home&logoColor=black&color=gray" height=25></a> 
-<a target="_blank" href="mailto:peterjoe2005@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=darkorange" height=25></a> 
+<a href="www.linkedin.com/in/peter-kim-34719126b" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.youtube.com/channel/UC2hlN8nkIE6jQl7qLvJFRNA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" height=25></a> 
+<a href=""><img src="https://img.shields.io/badge/My%20Website-%23E4405F.svg?&style=for-the-badge&logo=home&logoColor=black&color=gray" height=25 target="_blank"></a> 
+<a href="mailto:peterjoe2005@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=darkorange" height=25 target="_blank"></a> 
 </p>
 
 <!--
