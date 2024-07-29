@@ -1,5 +1,5 @@
 ## Hey! My name is PJ. Here's some stuff about me! 👋
-- 🔭 I'm currently working on my <a target="_blank" href="https://pj-kim-website-f1f51094eca1.herokuapp.com/">personal portfolio site</a> and a problem bank website for the Plymouth District Library
+- 🔭 I'm currently working on my <a target="_blank" href="https://pj-kim-website-f1f51094eca1.herokuapp.com/">personal portfolio site</a>
 - 🌱 I'm currently learning website development with HTML/CSS/JS
 - 🏫 I'm currently a freshman at Wayne State University majoring in Electrical & Computer Engineering with a minor in Computer Science.
 - 🔨 I love tinkering whether that be with 3D printers, electronics, or programming!
