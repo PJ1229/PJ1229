@@ -1,4 +1,4 @@
-## hi! my name is PJ. here's some stuff about me! 👋
+## hi! my name is pj. here's some stuff about me! 👋
 - 🔭 i'm currently focusing on school... projects otw!
 - 🌱 i'm currently learning MATLAB
 - 🏫 i currently study at wayne state university majoring in electrical and computer engineering
