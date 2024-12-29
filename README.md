@@ -1,5 +1,5 @@
 ## hi! my name is pj. here's some stuff about me! 👋
-- 🔭 i'm currently focusing on school... projects otw!
+- 🔭 i'm currently working on a mini autonomous car!
 - 🌱 i'm currently learning dsa!
 - 🏫 i currently study at wayne state university majoring in electrical and computer engineering
 - 🔨 i love tinkering whether that be with 3d printers, electronics, or programming!
