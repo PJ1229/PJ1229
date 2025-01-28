@@ -7,6 +7,7 @@
 <li>Making films: I post many short films on my <a href="https://www.instagram.com/pj.k1m/">Instagram</a> and <a href="https://www.youtube.com/@pjkim61">YouTube</a>!</li>
 <li>Playing Basketball: I am a lifelong Detroit Pistons fan!</li>
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
+<br>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
