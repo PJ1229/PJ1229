@@ -1,6 +1,4 @@
-## hi! my name is pj. here's some stuff about me! 👋
-- 🔭 i'm currently working on a mini autonomous car!
-- 🌱 i'm currently learning dsa!
-- 🏫 i currently study at wayne state university majoring in electrical and computer engineering
-- 🔨 i love tinkering whether that be with 3d printers, electronics, or programming!
-- 🎥 i like to work on short films on the side. check out my <a target="_blank" href="https://www.youtube.com/channel/UC2hlN8nkIE6jQl7qLvJFRNA">youtube channel!</a>
+<h1>Hi! I'm PJ</h1>
+<p>I'm currently studying electrical & computer engineering at Wayne State University. I am passionate about film, activism, and robotics, and many of my projects relate to these three topics. Here's what I've been working on:</p>
+<li>Founder of <a target="blank" href="https://www.linkedin.com/company/techtapes">TechTapes</a>: a non profit organization seeking to make technology more accessible by spreading awareness through media.</li>
+<li><a target="blank" href="https://github.com/PJ1229/Autonomous-Car-Project">Autonomous Car Project</a>: a personal project to better understand robotics and autonomous vehicles</li>
