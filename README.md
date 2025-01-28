@@ -8,23 +8,4 @@
 <li>Playing Basketball: I am a lifelong Detroit Pistons fan!</li>
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
 <br>
-![small-dark-discord](small/dark/discord.svg)
-![small-dark-dribbble](small/dark/dribbble.svg)
-![small-dark-facebook](small/dark/facebook.svg)
-![small-dark-github](small/dark/github.svg)
-![small-dark-gitlab](small/dark/gitlab.svg)
-![small-dark-instagram](small/dark/instagram.svg)
-![small-dark-linkedin](small/dark/linkedin.svg)
-![small-dark-medium](small/dark/medium.svg)
-![small-dark-messenger](small/dark/messenger.svg)
-![small-dark-pinterest](small/dark/pinterest.svg)
-![small-dark-quora](small/dark/quora.svg)
-![small-dark-reddit](small/dark/reddit.svg)
-![small-dark-skype](small/dark/skype.svg)
-![small-dark-spotify](small/dark/spotify.svg)
-![small-dark-telegram](small/dark/telegram.svg)
-![small-dark-tiktok](small/dark/tiktok.svg)
-![small-dark-twitch](small/dark/twitch.svg)
-![small-dark-twitter](small/dark/twitter.svg)
-![small-dark-twitter-x](small/dark/twitter-x.svg)
-![small-dark-youtube](small/dark/youtube.svg)
+
