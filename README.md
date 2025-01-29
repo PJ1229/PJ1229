@@ -8,5 +8,3 @@
 <li>Playing Basketball: I am a lifelong Detroit Pistons fan!</li>
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
 <br>
-
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
