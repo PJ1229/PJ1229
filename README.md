@@ -12,3 +12,4 @@
 <br>
 Let's connect!<br>
 <a href="https://www.instagram.com/pj.k1m/">Instagram</a>, <a href="https://www.linkedin.com/in/pjk1m/">LinkedIn</a>, <a href="https://www.youtube.com/@pjkim61">YouTube</a>
+pjk1m.com
