@@ -9,6 +9,4 @@
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
 <br>
 
-[![PJ’s github stats](https://github-readme-stats.vercel.app/api?username=PJ1229)](https://github.com/PJ1229)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJ1229&layout=compact)](https://github.com/PJ1229)
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
