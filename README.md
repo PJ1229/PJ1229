@@ -10,5 +10,5 @@
 <br>
 <br>
 <br>
-Let's connect!<br><a href="pjk1m.com">pjk1m.com</a><br>
+Let's connect!<span style="width: 124px;">&nbsp;</span><a href="https://pjk1m.com/">pjk1m.com</a><br>
 <a href="https://www.instagram.com/pj.k1m/">Instagram</a>, <a href="https://www.linkedin.com/in/pjk1m/">LinkedIn</a>, <a href="https://www.youtube.com/@pjkim61">YouTube</a><br>
