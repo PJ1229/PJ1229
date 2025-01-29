@@ -8,3 +8,4 @@
 <li>Playing Basketball: I am a lifelong Detroit Pistons fan!</li>
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
 <br>
+[![PJ’s github stats](https://github-readme-stats.vercel.app/api?username=PJ1229)](https://github.com/PJ1229)
