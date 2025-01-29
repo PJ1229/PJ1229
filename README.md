@@ -9,6 +9,6 @@
 <li>Social Media: I run WSU's <a href="https://www.instagram.com/wsu_ieee/">IEEE</a> social media and post hackathon reels on my Instagram</li>
 <br>
 <br>
-<br>
 Let's connect!<br>
 <a href="https://www.instagram.com/pj.k1m/">Instagram</a><br><a href="https://www.linkedin.com/in/pjk1m/">LinkedIn</a><br><a href="https://www.youtube.com/@pjkim61">YouTube</a><br>
+<hr>
