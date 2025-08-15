@@ -1,4 +1,4 @@
-<h1>Hi! I'm PJ 👋</h1>
+<h1>Hey! I'm PJ 👋</h1>
 <p>I'm currently studying computer engineering at the University of Michigan College of Engineering. I am passionate about film, activism, and robotics, and many of my projects relate to these three topics. Here's what I'm working on right now:</p>
 <li>Co-Founder of <a href="https://www.instagram.com/ootdfashn/">OOTD</a>: a fashion app and brand promoting inclusivity, diversity, and exploration</li>
 <li><a href="https://www.linkedin.com/company/yazaki-north-america/posts/?feedView=all">Yazaki</a> Intern: under the Ford Business Unit</li>
