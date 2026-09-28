@@ -15,7 +15,7 @@ I'm an Electrical Engineering student at the University of Michigan, a software 
 - **Northstar** — a personal automation platform that brings calendar, email, Notion, Canvas, and job-search workflows into one daily brief.
 - **um-autolog** — an on-device footage-logging assistant using Apple Vision, ffmpeg, and a human-in-the-loop review workflow.
 - **[Project Unsanctioned](https://pjk1m.com/unsanctioned)** — an OSTAR campaign I co-directed, edited, and colored; the rollout earned 100K+ Instagram impressions.
-- **[if not later, when?](https://pjk1m.com/if-not-later-when)** — a dialogue-free short film I directed, shot, colored, and edited.
+- **[December](https://pjk1m.com/december)** — a music video for Lizette that I directed, produced, shot, edited, and colored.
 
 ## Tools I reach for
 
